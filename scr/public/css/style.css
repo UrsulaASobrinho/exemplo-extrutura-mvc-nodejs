@@ -1,0 +1,68 @@
+* {
+    família de fontes: 'Open Sans', sans-serif;
+}
+
+.rdP1, .rdP2, .rdP3, .rdP4, .rdP5, .rdP6, .rdP7, .rdP8, 
+.rdP9, .rdP10, .rdP11, .rdP12, .rdP13, .rdP14, .rdP15, .rdP16,
+.rdP17, .rdP18, .rdP19, .rdP20, .rdP21, .rdP22   {
+    alinhamento vertical: meio;
+    esboço: nenhum;
+    largura: 15 px;
+    altura: 15px;
+    cursor: ponteiro;
+}
+
+.titulo {
+    cor:#1E90FF;
+    intensidade da fonte: Negrito;
+}
+
+.botão{
+    estofamento: 5px;
+    borda: nenhuma;
+    esboço: nenhum;
+    cor:#FFF;
+    tamanho da fonte: 16 px;
+    cursor: ponteiro;
+    cor de fundo: #1E90FF;
+}
+
+.button: pairar {
+    cor de fundo: laranja;
+}
+
+#verde, #vermelho, #cinza {
+    largura: 20 px;
+    altura: 20 px;
+    margem: 5px;
+    alinhamento vertical: meio;
+    flutuar: esquerda;
+}
+
+#verde {
+    cor de fundo: #20B2AA;
+}
+
+#vermelho {
+    cor de fundo: #F08080;
+}
+
+#cinza {
+    cor de fundo: #B0C4DE;
+}
+
+#acertos {
+
+}
+
+#erros {
+
+}
+
+.resultado {
+    Mostrar nenhum;
+}
+
+.Claro{
+    limpar ambos;
+}
